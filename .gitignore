@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Generated database (recreated by `make pipeline`)
+teiko.db
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+
+# Local Claude Code preview/launch config (machine-specific paths)
+.claude/
